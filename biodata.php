@@ -10,5 +10,7 @@
     <h1> Nama : Muhammad Rafi Jacob </h1>
     <h1> Sekolah : SMKN 1 DEPOK </h1>
     <h1> Jurusan : Pengembangan Perangkat Lunak & GIM </h1>
+    <h1> Umur : 18 </h1>
+    <h1> Hobi : Membaca Komik & Bermain Futsal </h1>
 </body>
 </html>
