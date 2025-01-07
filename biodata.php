@@ -12,5 +12,6 @@
     <h1> Jurusan : Pengembangan Perangkat Lunak & GIM </h1>
     <h1> Umur : 18 </h1>
     <h1> Hobi : Membaca Komik & Bermain Futsal </h1>
+    <h1> Kontak : 085282814942 </h1>
 </body>
 </html>
